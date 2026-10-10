@@ -1,30 +1,119 @@
-# Nithish Edward E — Portfolio
+<h1 align="center">Hi 👋, I'm Nithish Edward E</h1>
 
-A responsive, single-page personal portfolio built with HTML, CSS, and vanilla JavaScript.
+<h3 align="center">
+  B.Tech AI & Machine Learning Student | AI Developer | Python Programmer
+</h3>
 
-## Included
-- Responsive dark interface with animated decorative code card
-- About, selected projects, skills, education, and contact sections
-- Direct GitHub, LinkedIn, email, and DevBlog links
-- Mobile navigation
-- No build step or framework required
+<p align="center">
+  Building AI-powered applications and practical software solutions.
+</p>
 
-## Run locally
-Open `index.html` in a browser. For local development, you can also use the VS Code Live Server extension.
+<p align="center">
+  <a href="https://nithishedwardportfolio.vercel.app/">
+    🌐 Visit My Portfolio
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/nithish-edward-521a692b5/">
+    LinkedIn
+  </a>
+  •
+  <a href="https://github.com/nithishedward">
+    GitHub
+  </a>
+</p>
 
-## Deploy
-### GitHub Pages
-1. Create a repository (for example, `nithish-portfolio`).
-2. Upload `index.html`, `style.css`, `script.js`, and this README to the repository root.
-3. Open repository **Settings → Pages**.
-4. Select deploy from the `main` branch and the root folder.
-5. Save and wait for the published URL.
+---
 
-### Vercel
-Import the repository into Vercel. For this static site, use the project root and no build command. Set the output directory to `.` if Vercel asks for one.
+## 👨‍💻 About Me
 
-## Before publishing
-- Confirm the displayed education title matches your official degree name.
-- Verify all listed skills are technologies you can discuss.
-- The DisasterSense section is labelled as a prototype/in development; update it if your implementation status changes.
-- Check that the live DevBlog link and GitHub repository are accessible.
+- 🎓 Third-year B.Tech Artificial Intelligence & Machine Learning student
+- 📊 Current CGPA: **7.89**
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and LLM applications
+- 🐍 Working with Python and modern AI development tools
+- 🌐 Exploring full-stack web development
+- 🚀 Building projects that combine AI with practical applications
+- 🤝 Open to learning, collaboration, and internship opportunities
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+`Python` `C` `JavaScript` `HTML` `CSS`
+
+### AI & Machine Learning
+`Machine Learning` `Natural Language Processing` `LLM Integration`
+`Speech Recognition` `Computer Vision`
+
+### Web Development
+`React` `Node.js` `Express.js` `REST APIs`
+
+### Databases & Tools
+`MongoDB` `Git` `GitHub` `VS Code` `Ollama`
+
+---
+
+## 🚀 Featured Projects
+
+### 🎙️ JARVIS — Local AI Voice Assistant
+
+A Windows-based voice assistant designed to process voice commands and provide AI-powered responses locally.
+
+**Technologies:** Python, Ollama, Llama 3.2, Whisper, OpenWakeWord, pyttsx3
+
+🔗 [View Repository](https://github.com/nithishedward/jarvis-local-windows-assistant)
+
+### 📝 Codomax DevBlog — Full-Stack Blogging Platform
+
+A blogging application with user authentication and blog management functionality.
+
+**Technologies:** React, JavaScript, Node.js, Express.js, MongoDB, JWT
+
+🌐 [Live Demo](https://codomax-blog.vercel.app)
+
+🔗 [View Repository](https://github.com/nithishedward/codomax-blog)
+
+### 🌍 DisasterSense — AI-Based Disaster Relief Support
+
+An AI-focused project exploring disaster damage assessment and relief prioritization to support emergency response.
+
+**Focus Areas:** Artificial Intelligence, Computer Vision, Disaster Assessment
+
+🔗 [Explore My GitHub](https://github.com/nithishedward)
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning and Deep Learning
+- AI application development
+- Full-stack development
+- Building and deploying practical software projects
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nithish-edward-521a692b5/">
+    LinkedIn
+  </a>
+  <br>
+  <a href="https://github.com/nithishedward">
+    GitHub
+  </a>
+  <br>
+  <a href="YOUR-VERCEL-URL">
+    Portfolio Website
+  </a>
+  <br>
+  <a href="mailto:nithishedward13@gmail.com">
+    Email Me
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning continuously. Building consistently. Improving every day.</i>
+</p>
